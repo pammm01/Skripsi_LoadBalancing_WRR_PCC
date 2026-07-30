@@ -1,4 +1,4 @@
-# Perbandingan Analisis Algoritma Load Balancing antara Weighted Round Robin (WRR) dengan Per Connection Classifier (PCC) Menggunakan HAProxy pada Aplikasi Moodle
+# Perbandingan Analisis Algoritma Load Balancing antara Weighted Round Robin (WRR) dengan Per Connection Classifier (PCC)
 
 ## Skripsi
 
